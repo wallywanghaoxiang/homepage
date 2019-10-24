@@ -438,7 +438,7 @@ ul.media_sec{
 }
 @media (max-width: 480px){
 .header {
-  width: 31%;
+  width: 40%;
 }
 .header h1 {
   padding: 43px 18px 11px 18px;
